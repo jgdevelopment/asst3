@@ -1,5 +1,5 @@
 SRC_DIR := src
-HALIDE_DIR=/Users/setaluri/halide
+HALIDE_DIR = /Users/Jason/halide
 BUILD_DIR := build
 BIN_DIR := bin
 SRC_FILES := $(wildcard $(SRC_DIR)/*.cpp)
